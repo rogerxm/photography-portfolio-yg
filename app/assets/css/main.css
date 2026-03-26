@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  /* Fondo principal (un blanco con un toque de calidez) */
+  --color-canvas: #fcfcfc;
+
+  /* Texto principal y elementos oscuros */
+  --color-ink: #121212;
+
+  /* Tonos neutros para bordes o fondos secundarios */
+  --color-surface-100: #f5f5f5;
+  --color-surface-200: #e5e5e5;
+  --color-surface-800: #262626;
+
+  /* Color de acento (para botones o estados activos) */
+  --color-accent: #8b8b8b; /* Un gris medio elegante */
+
+  --font-title: "Playfair Display", serif;
+  --font-body: "Inter", sans-serif;
+}
